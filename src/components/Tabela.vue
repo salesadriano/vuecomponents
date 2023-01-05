@@ -308,9 +308,6 @@ function formatarNumero(valor, location, style, currency, digitos) {
 </script>
 
 <style lang="css">
-table {
-  background-color: aliceblue;
-}
 
 .link {
   cursor: pointer;

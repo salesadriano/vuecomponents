@@ -1,6 +1,6 @@
 <script setup>
 // import TheWelcome from "../components/TheWelcome.vue";
-import tabela from "../components/Tabela.vue";
+import tabela from "https://github.com/salesadriano/vuecomponents/blob/master/src/components/Tabela.vue";
 let dados = [
   {
     identidade: 1,
